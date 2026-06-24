@@ -11,6 +11,7 @@ Qué hace
 A partir de un dataset generado aleatoriamente, calcula por usuario:
 
 Total gastado
+
 Promedio de gasto
 Top 3 transacciones
 Categoría con mayor gasto
