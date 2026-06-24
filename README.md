@@ -13,10 +13,15 @@ A partir de un dataset generado aleatoriamente, calcula por usuario:
 Total gastado
 
 Promedio de gasto
+
 Top 3 transacciones
+
 Categoría con mayor gasto
+
 Categoría con menor gasto
+
 Cantidad de transacciones
+
 Enfoque
 
 Se utiliza una estructura de diccionarios anidados para:
