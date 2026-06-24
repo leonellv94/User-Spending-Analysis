@@ -44,7 +44,7 @@ for x in resultado_parc:
     user = resultado_parc[x]
     resultado[x] = {
         "total": user["total"],
-        "promedio": (user["total"] / user["count"]),
+        "promedio": round((user["total"] / user["count"]), 2),
         "top_3": sorted(user["values"], reverse=True)[:3],
         "cat_max": max(user["cats"], key= lambda k: user["cats"][k]),
         "cat_min": min(user["cats"], key= lambda k: user["cats"][k]),
