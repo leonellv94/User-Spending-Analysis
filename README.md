@@ -1,12 +1,12 @@
-User Spending Analysis (Manual Aggregation)
+# User Spending Analysis (Manual Aggregation)
 
 Este proyecto simula un conjunto de transacciones y procesa los datos usando Python puro (sin librerías como pandas).
 
-Objetivo
+## Objetivo
 
 Practicar la lógica de agrupación y agregación de datos desde cero, sin utilizar herramientas como groupby.
 
-Qué hace
+## Qué hace
 
 A partir de un dataset generado aleatoriamente, calcula por usuario:
 
@@ -22,7 +22,7 @@ Categoría con menor gasto
 
 Cantidad de transacciones
 
-Enfoque
+## Enfoque
 
 Se utiliza una estructura de diccionarios anidados para:
 
