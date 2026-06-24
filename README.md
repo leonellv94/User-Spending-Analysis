@@ -35,6 +35,3 @@ Acumular métricas en una sola pasada
 ## Motivación
 
 El objetivo fue entender cómo funcionan estas operaciones “por debajo”, en lugar de depender directamente de librerías externas.
-
-
-El objetivo fue entender cómo funcionan estas operaciones “por debajo”, en lugar de depender directamente de librerías externas.
