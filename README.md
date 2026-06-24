@@ -27,8 +27,14 @@ Cantidad de transacciones
 Se utiliza una estructura de diccionarios anidados para:
 
 Agrupar datos dinámicamente por usuario
+
 Manejar categorías sin hardcodearlas
+
 Acumular métricas en una sola pasada
-Motivación
+
+## Motivación
+
+El objetivo fue entender cómo funcionan estas operaciones “por debajo”, en lugar de depender directamente de librerías externas.
+
 
 El objetivo fue entender cómo funcionan estas operaciones “por debajo”, en lugar de depender directamente de librerías externas.
